@@ -1,0 +1,19 @@
+.contact{
+    max-width: 65rem;
+    margin: 1rem;
+    text-align:center;
+    background-color: rgba(128, 128, 128, 0.286);
+    box-shadow: 0 0 1rem;
+    border-radius: 1rem;
+    margin:1rem 0rem;
+
+}
+
+    .contact form .input-box{
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    
+}
+
+
